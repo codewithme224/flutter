@@ -25,4 +25,7 @@ void main() {
   print(p2.name);
   print(addNumbers(2.2, 4.1));
   print(addNumbers(10, 11));
+
+  // Null safety
+  var userName;
 }
